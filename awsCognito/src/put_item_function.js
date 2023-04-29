@@ -3,7 +3,7 @@ const dynamodb = new AWS.DynamoDB.DocumentClient();
 
 exports.handler = async (event) => {
     
-    let responseBody = ""
+    let responseBody = " "
     let statusCode = 0
     
     let {id, price} = JSON.parse(event.body);
@@ -24,8 +24,8 @@ exports.handler = async (event) => {
         
     } catch (err) {
           
-        statusCode = 200;
-        responseBody = JSON.stringify(err);
+        statusCode = 400;
+        responseBody = err;
         
     }
       
