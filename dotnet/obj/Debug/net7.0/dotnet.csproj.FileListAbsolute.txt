@@ -1,0 +1,15 @@
+/home/dev/github/Dio/dotnet/bin/Debug/net7.0/dotnet
+/home/dev/github/Dio/dotnet/bin/Debug/net7.0/dotnet.deps.json
+/home/dev/github/Dio/dotnet/bin/Debug/net7.0/dotnet.runtimeconfig.json
+/home/dev/github/Dio/dotnet/bin/Debug/net7.0/dotnet.dll
+/home/dev/github/Dio/dotnet/bin/Debug/net7.0/dotnet.pdb
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/dotnet.csproj.AssemblyReference.cache
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfoInputs.cache
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfo.cs
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/dotnet.csproj.CoreCompileInputs.cache
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/dotnet.dll
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/refint/dotnet.dll
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/dotnet.pdb
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/dotnet.genruntimeconfig.cache
+/home/dev/github/Dio/dotnet/obj/Debug/net7.0/ref/dotnet.dll
