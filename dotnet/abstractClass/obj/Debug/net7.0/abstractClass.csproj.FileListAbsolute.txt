@@ -1,0 +1,15 @@
+/home/dev/github/Dio/dotnet/abstractClass/bin/Debug/net7.0/abstractClass
+/home/dev/github/Dio/dotnet/abstractClass/bin/Debug/net7.0/abstractClass.deps.json
+/home/dev/github/Dio/dotnet/abstractClass/bin/Debug/net7.0/abstractClass.runtimeconfig.json
+/home/dev/github/Dio/dotnet/abstractClass/bin/Debug/net7.0/abstractClass.dll
+/home/dev/github/Dio/dotnet/abstractClass/bin/Debug/net7.0/abstractClass.pdb
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/abstractClass.csproj.AssemblyReference.cache
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/abstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/abstractClass.AssemblyInfoInputs.cache
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/abstractClass.AssemblyInfo.cs
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/abstractClass.csproj.CoreCompileInputs.cache
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/abstractClass.dll
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/refint/abstractClass.dll
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/abstractClass.pdb
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/abstractClass.genruntimeconfig.cache
+/home/dev/github/Dio/dotnet/abstractClass/obj/Debug/net7.0/ref/abstractClass.dll
